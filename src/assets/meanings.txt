@@ -1,0 +1,1553 @@
+# Card meanings: one block per card id (00-77), edited by hand freely.
+# NAME, KEYWORDS, UP (upright, one line each), REV (reversed), OMEN, and Waite's
+# 1910 divinatory meanings (WAITE UP / WAITE REV).
+# Sources: A. E. Waite, "The Pictorial Key to the Tarot" (1910, public domain);
+# Mark McElroy, "A Guide to Tarot Meanings" (via the CC0 dariusk/corpora collection).
+# Text is shown in upper case; build_assets.py wraps it for the screen.
+
+[00]
+NAME: THE FOOL
+KEYWORDS: freedom, faith, inexperience, innocence
+UP: Freeing yourself from limitation
+UP: Expressing joy and youthful vigor
+UP: Being open-minded
+UP: Taking a leap of faith
+UP: Attuning yourself to your instincts
+UP: Being eager or curious
+UP: Exploring your potential
+UP: Embracing innovation and change
+REV: Being gullible and naive
+REV: Taking unnecessary risks
+REV: Failing to be serious when required
+REV: Being silly or distracted
+REV: Lacking experience
+REV: Failing to honor well-established traditions and limits
+REV: Behaving inappropriately
+OMEN: Watch for new projects and new beginnings
+OMEN: Prepare to take something on faith
+OMEN: Something new comes your way; go for it
+WAITE UP: Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.
+WAITE REV: Negligence, absence, distribution, carelessness, apathy, nullity, vanity.
+
+[01]
+NAME: THE MAGICIAN
+KEYWORDS: capability, empowerment, activity
+UP: Taking appropriate action
+UP: Receiving guidance from a higher power
+UP: Becoming a channel of divine will
+UP: Expressing masculine energy in appropriate and constructive ways
+UP: Being yourself in every way
+REV: Inflating your own ego
+REV: Abusing talents
+REV: Manipulating or deceiving others
+REV: Being too aggressive
+REV: Using cheap illusions to dazzle others
+REV: Refusing to invest the time and effort needed to master your craft
+REV: Taking shortcuts
+OMEN: A powerful man may play a role in your day
+OMEN: Your current situation must be seen as one element of a much larger plan
+WAITE UP: Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.
+WAITE REV: Physician, Magus, mental disease, disgrace, disquiet.
+
+[02]
+NAME: THE HIGH PRIESTESS
+KEYWORDS: intuition, reflection, purity, initiation
+UP: Listening to your feelings and intuitions
+UP: Exploring unconventional spirituality
+UP: Keeping secrets
+UP: Being receptive
+UP: Reflecting instead of acting
+UP: Observing others
+UP: Preserving purity
+REV: Being aloof
+REV: Obsessing on secrets and conspiracies
+REV: Rejecting guidance from spirit or intuition
+REV: Revealing all
+REV: Ignoring gut feelings
+REV: Refusing to become involved, even when involvement is appropriate
+OMEN: A mysterious woman arrives
+OMEN: A sexual secret may surface
+OMEN: Someone knows more than he or she will reveal
+WAITE UP: Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.
+WAITE REV: Passion, moral or physical ardour, conceit, surface knowledge.
+
+[03]
+NAME: THE EMPRESS
+KEYWORDS: fertility, productivity, ripeness, nurturing
+UP: Nurturing yourself and others
+UP: Bearing fruit
+UP: Celebrating your body
+UP: Bearing (literal or figurative) children
+UP: Reveling in luxury
+UP: Mothering those around you in positive ways
+UP: Enjoying your sexuality
+UP: Getting things done
+REV: Overindulging
+REV: Being greedy
+REV: Smothering someone with attention
+REV: Debilitating someone by being overprotective
+REV: Inhibiting productivity by obsessing on productivity
+REV: Being overcome by addictive behavior
+OMEN: Pregnancy is in the cards
+OMEN: An opportunity to be involved in luxurious sexuality is coming
+OMEN: Beware a tendency toward addiction
+WAITE UP: Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.
+WAITE REV: Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.
+
+[04]
+NAME: THE EMPEROR
+KEYWORDS: authority, regulation, direction, structure
+UP: Exercising authority
+UP: Defining limits
+UP: Directing the flow of work
+UP: Communicating clear guidelines
+UP: Being in control of yourself and others
+UP: Tempering aggressive masculinity with wisdom and experience
+REV: Micromanaging
+REV: Crushing the creativity of others with a rigid, iron-fisted approach
+REV: Insisting on getting your own way
+REV: Assuming a dictatorial mindset
+REV: Using overt force to achieve your goals and maintain order
+OMEN: A father figure arrives
+OMEN: A new employer or authority figure will give you orders
+OMEN: Expect discipline or correction in the near future
+WAITE UP: Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.
+WAITE REV: Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.
+
+[05]
+NAME: THE HIEROPHANT
+KEYWORDS: guidance, knowledge, revelation, belief
+UP: Teaching or guiding others
+UP: Searching for the truth
+UP: Asking for guidance from a higher power
+UP: Acknowledging the wisdom and experience of others
+UP: Taking vows
+UP: Engaging in heartfelt rituals
+UP: Volunteering
+REV: Using experience as a means of manipulating or misguiding others
+REV: Being dogmatic
+REV: Favoring tradition over what is expedient or necessary
+REV: Going through the motions of empty rituals
+REV: Concealing wisdom
+REV: Restricting access to spiritual truths or the gods
+OMEN: Expect to be caught in a misdeed and punished accordingly
+OMEN: Pray for forgiveness and confess wrongdoings
+OMEN: A more experienced man, spiritual leader, or father figure will come into your life
+WAITE UP: Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.
+WAITE REV: Society, good understanding, concord, overkindness, weakness.
+
+[06]
+NAME: THE LOVERS
+KEYWORDS: love, passion, unity, choice
+UP: Being in love
+UP: Showing your love to others
+UP: Expressing passion or romantic feelings
+UP: Aligning yourself with groups or like-minded others
+UP: Bringing people together
+UP: Making well-informed decisions
+REV: Debilitating passion
+REV: Allowing an unhealthy desire for love to motivate destructive behavior
+REV: Disrupting unity
+REV: Working against the best interests of those who care about you
+REV: Ill-informed decisions
+OMEN: A new personal or professional relationship blossoms
+OMEN: Sexual opportunities abound
+OMEN: Unexpectedly, a friend becomes a lover
+WAITE UP: Attraction, love, beauty, trials overcome.
+WAITE REV: Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.
+
+[07]
+NAME: THE CHARIOT
+KEYWORDS: advancement, victory, triumph, success
+UP: Breaking through barriers
+UP: Moving forward with confidence and authority
+UP: Reaching the pinnacle of success
+UP: Basking in the glory of achievement
+UP: Guiding an effort to total victory
+UP: Establishing yourself as a worthy leader
+REV: Resting on laurels
+REV: Riding roughshod over the feelings or expectations of others
+REV: Focusing more on past successes than future opportunities
+REV: Failing to rein in impulsive behavior
+OMEN: Victory is a certainty
+OMEN: Move ahead with all plans
+OMEN: Beware the jealousy of others
+WAITE UP: Succour, providence also war, triumph, presumption, vengeance, trouble.
+WAITE REV: Riot, quarrel, dispute, litigation, defeat.
+
+[08]
+NAME: STRENGTH
+KEYWORDS: discipline, boldness, self-discipline, power, vitality
+UP: Imposing restrictions on yourself for your own benefit
+UP: Bringing your passions under the control of reason
+UP: Resisting impulses that work against your best interests
+UP: Taking bold action
+REV: Indulging weakness, even when you know it will damage your health and happiness
+REV: Languishing in addiction
+REV: Allowing your instincts to tame and conquer you
+REV: Failing to take a stand when necessary
+OMEN: Your self-control will be tested
+OMEN: A woman will seek to change her partner or lover
+OMEN: You are a strong, capable person
+WAITE UP: Power, energy, action, courage, magnanimity; also complete success and honours.
+WAITE REV: Despotism, abuse if power, weakness, discord, sometimes even disgrace.
+
+[09]
+NAME: THE HERMIT
+KEYWORDS: solitude, experience, stillness, withdrawal
+UP: Becoming or seeking out a guru
+UP: Going on a retreat
+UP: Recharging spiritual or creative batteries
+UP: Lighting the way for those with less experience
+UP: Stepping back to gain perspective
+REV: Being a loner
+REV: Fearing contact with others
+REV: Becoming a know-it-all
+REV: Inflating claims of expertise
+REV: Hiding your skills and talents out of fear of unworthiness
+OMEN: A period of loneliness begins
+OMEN: One partner in a relationship departs
+OMEN: A search for love or money proves fruitless
+WAITE UP: Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.
+WAITE REV: Concealment, disguise, policy, fear, unreasoned caution.
+
+[10]
+NAME: THE WHEEL OF FORTUNE
+KEYWORDS: luck, randomness, cycles, karma, fate, revolution
+UP: Allowing events to unfold
+UP: Seeing the larger pattern in everyday events
+UP: Trusting your luck
+UP: Watching for cycles
+UP: Believing that "what goes around, comes around"
+REV: Losing money gambling
+REV: Refusing to do your part to bring a plan to fruition
+REV: Taking a fatalistic approach to life
+REV: Fighting the natural course of events
+OMEN: Some events are in the hands of heaven
+OMEN: You've lived through this before
+OMEN: What happened then?
+WAITE UP: Destiny, fortune, success, elevation, luck, felicity.
+WAITE REV: Increase, abundance, superfluity.
+
+[11]
+NAME: JUSTICE
+KEYWORDS: balance, law, fairness, objectivity
+UP: Making an objective decision
+UP: Weighing an issue carefully before taking action
+UP: Appropriately scaling your reaction to a situation
+UP: Getting all the facts
+UP: Considering evidence
+UP: Deliberating
+REV: Delivering harsh criticism
+REV: Obsessing on rules and regulations
+REV: Playing by the book even when it is destructive or counterproductive to do so
+REV: Confusing snap decisions with timely action
+REV: Playing favorites
+OMEN: A legal verdict will be rendered soon
+OMEN: Someone is making a decision
+OMEN: You need to get the facts
+WAITE UP: Equity, rightness, probity, executive; triumph of the deserving side in law.
+WAITE REV: Law in all its departments, legal complications, bigotry, bias, excessive severity.
+
+[12]
+NAME: THE HANGED MAN
+KEYWORDS: enlightenment, sacrifice, perspective, suspension, reversals
+UP: Seeing growth opportunities in unpleasant events
+UP: Experiencing a dramatic change in personal perspective
+UP: Making the best of an unforeseen change in your life or work
+UP: Suspending disbelief
+UP: Making sacrifices
+REV: Being untrue to yourself and your values
+REV: Refusing to make sacrifices when appropriate
+REV: Refusing to adapt to new situations
+REV: Blaming others
+REV: Profiting at the expense of others
+OMEN: A traitor is revealed
+OMEN: One of your friends is working against you
+OMEN: Change your ways or suffer the consequences
+WAITE UP: Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.
+WAITE REV: Selfishness, the crowd, body politic.
+
+[13]
+NAME: DEATH
+KEYWORDS: ending, conclusion, transition, passage, departure
+UP: Bringing an unpleasant phase of life to an end
+UP: Recognizing and celebrating the conclusion of something
+UP: Putting bad habits to rest
+UP: Becoming a new person
+UP: Leaving one person, place, or thing for another
+UP: Letting go
+REV: Obsessing on death and dying
+REV: Refusing to give up old habits or unhealthy relationships
+REV: Insisting that everything and everyone should stay the same forever
+REV: Failing to take good care of yourself
+OMEN: A relationship or illness ends suddenly
+OMEN: Limit travel and risk-taking
+OMEN: General gloom and doom
+WAITE UP: End, mortality, destruction, corruption also, for a man, the loss of a benefactor for a woman, many contrarieties; for a maid, failure of marriage projects.
+WAITE REV: Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.
+
+[14]
+NAME: TEMPERANCE
+KEYWORDS: blending, synthesis, mediation, combination, harmony
+UP: Bringing opposites together
+UP: Moderating your actions or emotions
+UP: Finding middle ground
+UP: Reaching compromises
+UP: Synthesizing solutions that please everyone involved
+UP: Using the old to make something new
+REV: Going to extremes
+REV: Disrupting group efforts
+REV: Ignoring healthy approaches to life
+REV: Becoming an addict
+REV: Practicing gluttony
+REV: Tearing something or someone apart
+REV: Breaking alliances
+OMEN: Someone's using drugs or alcohol to excess
+OMEN: It's time to get back on that diet
+WAITE UP: Economy, moderation, frugality, management, accommodation.
+WAITE REV: Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests.
+
+[15]
+NAME: THE DEVIL
+KEYWORDS: shadow, materialism, bondage, delusion
+UP: Appreciating the luxuries that life has to offer
+UP: Being comfortable in your own skin
+UP: Enjoying your sexuality
+UP: Splurging on an expensive personal item
+UP: Embracing the fact that everyone has a darker side
+UP: Dealing with unhealthy impulses in healthy ways
+REV: Putting excessive emphasis on appearances
+REV: Always wanting more
+REV: Valuing possessions more than people or relationships
+REV: Allowing base instincts to govern your life
+REV: Being selfish
+REV: Attributing your own dark impulses to outside forces or other people
+OMEN: Adultery and unfaithfulness
+OMEN: A string of extremely bad luck is coming your way
+OMEN: Beware evil influences and wolves in sheep's clothing
+WAITE UP: Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.
+WAITE REV: Evil fatality, weakness, pettiness, blindness.
+
+[16]
+NAME: THE TOWER
+KEYWORDS: demolition, upheaval, deconstruction, disaster, destruction
+UP: Breaking out of old, confining habits and mindsets
+UP: Clearing the way for new growth
+UP: Dispelling the influence of an inflated ego
+UP: Getting back to basics
+UP: Stripping away harmful illusions
+UP: Receiving sudden insight
+REV: Clinging to traditions that repress growth
+REV: Engaging in willful blindness
+REV: Rejecting evidence that change is needed
+REV: Ignoring guidance from a higher power
+REV: Maliciously engaging in destructive behavior
+OMEN: Impending disaster
+OMEN: Cancel plans and reverse decisions
+OMEN: Someone wants to take you down a notch or two
+OMEN: Don't hold back; say what you really mean
+WAITE UP: Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.
+WAITE REV: According to one account, the same in a lesser degree also oppression, imprisonment, tyranny.
+
+[17]
+NAME: THE STAR
+KEYWORDS: hope, optimism, openness, certainty, faith, longing, truth
+UP: Hoping for the best
+UP: Believing good things happen to good people
+UP: Seeing events in the best possible light
+UP: Adopting a generous spirit
+UP: Seeking guidance from above
+UP: Embracing possibility over probability
+REV: Denying unpleasant truths
+REV: Denying personal accountability and saying, "Things just happen!"
+REV: Ignoring signs and omens
+REV: Preferring illusion to reality
+REV: Spreading pessimism and stinginess of spirit
+OMEN: Get an astrology chart drawn up
+OMEN: Someone is a little too starstruck
+OMEN: What's happening now has long been fore-ordained
+WAITE UP: Loss, theft, privation, abandonment; another reading says-hope and bright prospects,
+WAITE REV: Arrogance, haughtiness, impotence.
+
+[18]
+NAME: THE MOON
+KEYWORDS: mystery, fantasy, imagination, dreams, uncertainty
+UP: Enjoying healthy fantasies and daydreams
+UP: Using your imagination
+UP: Practicing magic or celebrating the magic of everyday life
+UP: Attuning yourself to the cycles of nature
+UP: Embracing the unknown
+REV: Becoming unable to separate fantasy from reality
+REV: Suffering from delusions
+REV: Losing your appreciation for the fantastic or magical
+REV: Adopting a ruthlessly logical mindset
+REV: Failing to appreciate life's mysteries
+OMEN: Watch for problems at the end of the month
+OMEN: Someone you know needs to howl at the moon more often
+OMEN: Someone is about to change his or her mind about an important decision
+WAITE UP: Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.
+WAITE REV: Instability, inconstancy, silence, lesser degrees of deception and error.
+
+[19]
+NAME: THE SUN
+KEYWORDS: joy, brilliance, validation, attention, energy
+UP: Seeing things clearly
+UP: Experiencing intense joy
+UP: Celebrating your own successes
+UP: Knowing you're good at what you do
+UP: Gaining recognition for your personal genius
+REV: Being dazzled by your own accomplishments
+REV: Becoming absorbed in your own self-image
+REV: Feeling rushed and distracted
+REV: Exerting yourself to the point of exhaustion
+REV: Overstating your abilities or misrepresenting your achievements
+OMEN: Everything's coming up roses (or sunflowers, whatever the case may be)
+OMEN: Whatever's on your mind, go for it because you can't lose today
+WAITE UP: Material happiness, fortunate marriage, contentment.
+WAITE REV: The same in a lesser sense.
+
+[20]
+NAME: JUDGEMENT
+KEYWORDS: revival, renewal, resurrection, evaluation, invitation
+UP: Receiving a wake-up call
+UP: Discovering a new purpose in life
+UP: Becoming totally and completely yourself
+UP: Receiving a well-deserved reward
+UP: Passing an evaluation or examination
+UP: Welcoming the start of a new phase of life
+REV: Being weighed in the balances and found wanting
+REV: Failing to measure up to a well-defined standard
+REV: Being caught goofing off or misbehaving
+REV: Failing to prepare for an examination you know is coming
+REV: Rejecting an opportunity to reinvent yourself
+OMEN: An old issue you thought was over will come up again today
+OMEN: Get ready for huge changes: break-ups, sudden calls from old friends, and unexpected setbacks
+OMEN: God's trying to get your attention
+WAITE UP: Change of position, renewal, outcome. Another account specifies total loss though lawsuit.
+WAITE REV: Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.
+
+[21]
+NAME: THE WORLD
+KEYWORDS: wholeness, integration, totality, completeness, fullness
+UP: Having it all
+UP: Knowing and loving yourself as completely as possible
+UP: Seeing the interconnection of all things and people
+UP: Enhancing your perspective
+UP: Living life to its fullest
+UP: Understanding the meaning of life
+REV: Allowing greed and envy to prevent you from enjoying what you do possess
+REV: Failing to see the larger design in ordinary events
+REV: Believing that everything that exists can be touched, counted, or measured
+REV: Failing to see the divine reflected in those around you
+OMEN: Winning the lottery
+OMEN: Getting your heart's desire
+OMEN: Having everything you ever imagined having
+WAITE UP: Assured success, recompense, voyage, route, emigration, flight, change of place.
+WAITE REV: Inertia, fixity, stagnation, permanence.
+
+[22]
+NAME: ACE OF WANDS
+KEYWORDS: desire, inspiration, vision, creation, invention
+UP: Being inspired
+UP: Identifying an important goal
+UP: Being given the opportunity to do whatever you want to do
+UP: Giving or receiving direction
+UP: Seeing a solution
+UP: Creating something new
+UP: Being aroused, sexually or creatively
+REV: Failing to take advantage of a great opportunity
+REV: Being ineffectual or lazy
+REV: Making an inadequate effort
+REV: Working toward a goal, but lacking the resources or initiative to achieve success
+REV: Setting inappropriate goals
+REV: Failing to take a stand
+OMEN: Someone has the "hots" for you
+OMEN: A new job offer is coming your way
+OMEN: Walk softly, and carry a big stick
+WAITE UP: Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.
+WAITE REV: Fall, decadence, ruin, perdition, to perish also a certain clouded joy.
+
+[23]
+NAME: TWO OF WANDS
+KEYWORDS: conflict, decision, option, individuality
+UP: Having a choice
+UP: Offering or being offered an option
+UP: Seeing the value of another person's approach
+UP: Understanding there's more than one way to "skin a cat"
+UP: Successfully doing more than one thing at a time
+UP: Being empowered to make a choice
+REV: Misrepresenting your intentions
+REV: Doing one thing while desiring another
+REV: Changing course mid-stream for no good reason
+REV: Refusing to change your goal even when pursuing it no longer makes sense
+REV: Disregarding the input of others
+OMEN: Beware false friends
+OMEN: Don't be mealy-mouthed; say what you think and do what you want to do
+WAITE UP: Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.
+WAITE REV: Surprise, wonder, enchantment, emotion, trouble, fear.
+
+[24]
+NAME: THREE OF WANDS
+KEYWORDS: implementation, action, exploration
+UP: Putting a plan into motion
+UP: Taking that critical first step
+UP: Making good things happen
+UP: Going beyond your limits
+UP: Blazing new trails
+UP: Hitting the ground running
+UP: Seeing your plans come to fruition
+REV: Procrastinating
+REV: Knowing what to do, but refusing to do it
+REV: Launching a project without a clear definition of who should do what
+REV: Rejecting an opportunity to try something new
+REV: Failing to finish what you start
+OMEN: You'll be planning a trip soon
+OMEN: Be on the lookout: your ship is coming in
+WAITE UP: He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you.
+WAITE REV: The end of troubles, suspension or cessation of adversity, toil and disappointment.
+
+[25]
+NAME: FOUR OF WANDS
+KEYWORDS: celebration, jubilation, community, teamwork, completion
+UP: Sharing in a great celebration
+UP: Sharing in a communal sense of achievement and success
+UP: Preparing for a party
+UP: Working together toward a common goal
+UP: Giving or winning awards
+REV: Keeping your nose to the grindstone
+REV: Recognizing good work by demanding more work
+REV: Failing to share in a group celebration
+REV: Allowing sour grapes to poison your moment in the sun
+REV: Refusing to do your part
+OMEN: Someone is watching and evaluating your work
+OMEN: You may get a wedding invitation soon
+WAITE UP: They are for once almost on the surface--country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.
+WAITE REV: The meaning remains unaltered; it is prosperity, increase, felicity, beauty, embellishment.
+
+[26]
+NAME: FIVE OF WANDS
+KEYWORDS: confrontation, disruption, distinction, objection, strife
+UP: Calmly expressing a dissenting opinion
+UP: Allowing someone to use his or her own methods to get a job done
+UP: Opening the floor for discussion or debate
+UP: Comparing progress made so far to standards set earlier
+REV: Berating others for their ridiculous opinions
+REV: Picking fights
+REV: Offering destructive criticism
+REV: Baiting people with barbed remarks
+REV: Disrupting progress with an endless stream of pointless objections
+OMEN: Prepare for a fight with your best friend
+OMEN: Remember: once you let words loose, you can't take them back
+WAITE UP: Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence.
+WAITE REV: Litigation, disputes, trickery, contradiction.
+
+[27]
+NAME: SIX OF WANDS
+KEYWORDS: victory, achievement, success, triumph
+UP: Outperforming your peers
+UP: Winning a competition
+UP: Being recognized as a capable person
+UP: Having your "moment in the spotlight"
+UP: Being cheered on by the crowd
+UP: Getting an award
+UP: Earning the admiration of others
+UP: Telling someone, "Good job!"
+REV: Being a bad winner
+REV: Allowing your achievements to inflate your ego
+REV: Looking down on people who seem less capable
+REV: Craving to be the center of attention
+REV: Giving or receiving insincere praise
+REV: Envying the achievements of others
+OMEN: Someone is planning a party for you, but not everyone feels so good about your recent success
+OMEN: Watch out for envious friends
+WAITE UP: The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.
+WAITE REV: Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay.
+
+[28]
+NAME: SEVEN OF WANDS
+KEYWORDS: bravery, resolve, determination
+UP: Refusing to be silenced through fear or intimidation
+UP: Continuing a fight against all odds
+UP: Being fierce
+UP: Defending yourself against physical and emotional attacks
+UP: Refusing to put up with abuse
+UP: Clinging to your values despite all pressure to abandon them
+REV: Having a chip on your shoulder
+REV: Taking unnecessary risks as a means of proving your fearlessness
+REV: Looking for an opportunity to take offense
+REV: Responding to constructive criticism with defensiveness
+REV: Refusing to stand up for yourself and your beliefs
+OMEN: Don't be surprised by a personal attack
+OMEN: Prepare to defend yourself or someone you love
+WAITE UP: It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.
+WAITE REV: Perplexity, embarrassments, anxiety. It is also a caution against indecision.
+
+[29]
+NAME: EIGHT OF WANDS
+KEYWORDS: speed, swiftness, responsiveness, change
+UP: Taking swift action
+UP: Moving forward with a plan as quickly as possible
+UP: Energizing yourself
+UP: Adapting to sudden changes
+UP: Taking setbacks in stride
+UP: Embracing the idea that nothing stays the same forever
+UP: Reacting quickly and appropriately to unforeseen problems
+REV: Giving in to panic
+REV: Running in circles and screaming
+REV: Insisting things must always stay the same
+REV: Stirring the pot just to see what will happen
+REV: Rushing others
+REV: Refusing to re-evaluate a schedule or program, even when it's clearly no longer appropriate
+OMEN: Watch for a surprising letter in the mail
+OMEN: Your whole world is about to be turned on its ear
+WAITE UP: Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.
+WAITE REV: Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married.
+
+[30]
+NAME: NINE OF WANDS
+KEYWORDS: toughness, persistence, stamina, loyalty, release
+UP: Sticking with it for the duration
+UP: Fulfilling your promises and obligations
+UP: Bearing up under incredible duress
+UP: Dragging yourself across the finish line
+UP: Picking yourself up by your own bootstraps
+UP: Refusing to quit
+UP: Going as far as you can go and being satisfied with your performance
+REV: Making yourself a martyr
+REV: Abandoning your post
+REV: Giving up at the first sign of opposition
+REV: Being prevented from fulfilling an obligation
+REV: Failing to be dependable
+REV: Refusing to let something go that needs to be released
+REV: Beating a dead horse
+OMEN: Don't relax yet; there's more to come
+OMEN: The test you're facing now is happening for one reason: to show you who your real friends are
+WAITE UP: The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts--delay, suspension, adjournment.
+WAITE REV: Obstacles, adversity, calamity.
+
+[31]
+NAME: TEN OF WANDS
+KEYWORDS: exhaustion, resistance, burden, oppression
+UP: Holding your own in extreme circumstances
+UP: Helping others carry their burdens
+UP: Coming to the aid of the oppressed
+UP: Knowing and being honest about your own limits
+UP: Recognizing when you are not well-suited for a particular task
+REV: Taking on more work than you know you can handle
+REV: Refusing to say "No" when you're already overloaded
+REV: Making a habit of working overtime
+REV: Shielding others from facing the consequences of their own poor judgment
+REV: Over-extending yourself on a regular basis
+OMEN: You're worn out
+OMEN: Back off, take a time out, and let someone else handle things for a while
+WAITE UP: A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.
+WAITE REV: Contrarieties, difficulties, intrigues, and their analogies.
+
+[32]
+NAME: PAGE OF WANDS
+KEYWORDS: enthusiasm, eagerness, confidence, validation, affirmation
+UP: Leaping at a new opportunity
+UP: Being a cheerleader or ardent advocate for your cause
+UP: Being a True Believer
+UP: Taking first steps toward independence
+UP: Trusting in your own abilities
+UP: Asking for feedback
+REV: Basing your entire self-image on what others think
+REV: Seizing every new idea that comes your way without question
+REV: Habitually discounting input or feedback from others
+REV: Being so eager to "do it yourself" that you hinder your own progress
+OMEN: This card represents a young man or woman with a fiery, enthusiastic demeanor, likely born a Cancer, Leo, or Virgo, who wants to start a new relationship with you
+WAITE UP: Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.
+WAITE REV: Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it.
+
+[33]
+NAME: KNIGHT OF WANDS
+KEYWORDS: boldness, bravado, passion, persuasion, advocacy
+UP: Charging ahead
+UP: Making rapid progress
+UP: Refusing limits
+UP: Dazzling those around you with your wit and charm
+UP: Convincing others of your right to leadership
+UP: Convincing others to follow you
+UP: Being a catalyst for change
+REV: Blundering forward with inadequate skill or information
+REV: Running roughshod over the feelings of others
+REV: Using sex appeal to manipulate others
+REV: Forcing your leadership or ideology on others
+REV: Beginning many projects without finishing any
+OMEN: This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet
+WAITE UP: Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.
+WAITE REV: Rupture, division, interruption, discord.
+
+[34]
+NAME: QUEEN OF WANDS
+KEYWORDS: attention, attraction, unification, collaboration
+UP: Paying close attention
+UP: Helping others focus on the issue at hand
+UP: Getting everyone to work together
+UP: Identifying common ground
+UP: Bringing people together, despite their differences
+UP: Using reverse psychology
+REV: Being distracted, or using your charms or skills to distract others from the goal
+REV: Calling attention to yourself with negative or unhealthy behaviors
+REV: Disrupting group activities as a means of feeding your own ego
+OMEN: This card represents a woman with an attractive, appealing personality, likely born between March 11th and April 20th, who wants to charm you into doing things her way
+WAITE UP: A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.
+WAITE REV: Good, economical, obliging, serviceable. Signifies also--but in certain positions and in the neighbourhood of other cards tending in such directions--opposition, jealousy, even deceit and infidelity.
+
+[35]
+NAME: KING OF WANDS
+KEYWORDS: creativity, ingenuity, achievement, direction
+UP: Putting old things together in new and exciting ways
+UP: Coming up with unexpected solutions
+UP: Using your experience to solve puzzles and problems
+UP: Doing what you set out to do
+UP: Directing the efforts of others
+REV: Using your creativity to get out of honest work
+REV: Investing great energy in avoiding responsibility
+REV: Boasting about achievements without putting your expertise to practical use
+REV: Lording it over others
+OMEN: This card represents an older man with a commanding, charismatic personality, likely born between November 13th and December 12th, who prefers to give directions and have them followed
+WAITE UP: Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.
+WAITE REV: Good, but severe; austere, yet tolerant.
+
+[36]
+NAME: ACE OF CUPS
+KEYWORDS: intuition, spirituality, affection, motivation
+UP: Trusting your feelings
+UP: Opening yourself to spirit
+UP: Accepting and returning affection
+UP: Getting in touch with what motivates you
+UP: Taking advantage of an opportunity to express love to others
+UP: Listening to the still, small voice
+REV: Hiding your feelings
+REV: Spurning an opportunity to love or be loved
+REV: Numbing yourself to spiritual yearnings
+REV: Rejecting the counsel of your heart
+REV: Becoming a puppet of your own emotions
+REV: Indulging in hysteria or obsession
+OMEN: Romance is in the cards
+OMEN: A new relationship or marriage is just around the corner
+OMEN: Prayers are answered
+WAITE UP: House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.
+WAITE REV: House of the false heart, mutation, instability, revolution.
+
+[37]
+NAME: TWO OF CUPS
+KEYWORDS: union, attraction, combination, affection
+UP: Being drawn to someone
+UP: Longing for someone or something
+UP: Acting on your desires
+UP: Discovering a feeling is mutual
+UP: Doing what makes you feel good
+UP: Merging
+UP: Healing broken ties
+UP: Admitting two people feel differently about each other and moving on
+REV: Burning bridges
+REV: Becoming caught up in unhealthy codependency
+REV: Shutting out anyone but your chosen few
+REV: Obsessing on someone who does not return your affections
+REV: Despairing over finding "The One"
+REV: Deceiving yourself about your true orientation
+OMEN: Someone has a secret crush on you
+OMEN: Relationships should be mutual; get rid of a leech
+WAITE UP: Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and--as a suggestion apart from all offices of divination--that desire which is not in Nature, but by which Nature is sanctified.
+WAITE REV: Lust, cupidity, jealousy, wish, desire, but the card may also give, says W., "that desire which is not in nature, but by which nature is sanctified."
+
+[38]
+NAME: THREE OF CUPS
+KEYWORDS: celebration, expression, community, friendliness
+UP: Celebrating your feelings or connections with others
+UP: Expressing joy through song, dance, or physical affection
+UP: Working together with others who share your feelings
+UP: Performing acts of service as a way of saying, "I love you"
+UP: Embracing unconventional romantic arrangements
+REV: Mistaking giddiness for true affection
+REV: Being dominated by manic emotions
+REV: Expecting everyone to always feel the same way you do
+REV: Demanding unreasonable support from friends or family
+REV: Partying to a dangerous or unhealthy extent
+OMEN: Unconventional romance is coming your way: a love affair with someone you've always dismissed
+WAITE UP: The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing,
+WAITE REV: Expedition, dispatch, achievement, end. It signifies also the side of excess in physical enjoyment, and the pleasures of the senses.
+
+[39]
+NAME: FOUR OF CUPS
+KEYWORDS: boredom, listlessness, lethargy, stability, ingratitude
+UP: Maintaining your emotional stability
+UP: Refusing to give in to overwhelming emotions
+UP: Appreciating what you have and refusing to take it for granted
+UP: Seeing the value of long-term commitments
+REV: Being bored
+REV: Daydreaming at the expense of your work
+REV: Refusing to be engaged by opportunity
+REV: Taking people and relationships for granted
+REV: Ignoring romantic or spiritual opportunities
+REV: Spurning inspiration
+REV: Feeling everything should stay "just like it is"
+OMEN: A lover is getting restless
+OMEN: Find out what he or she needs, or new opportunities may lure your partner away
+WAITE UP: Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.
+WAITE REV: Novelty, presage, new instruction, new relations.
+
+[40]
+NAME: FIVE OF CUPS
+KEYWORDS: loss, despair, re-evaluation, regret, uncertainty, repentance
+UP: Acknowledging loss and moving on
+UP: Focusing on how the glass remains "half-full"
+UP: Finding the silver lining in a dark cloud
+UP: Recognizing that loss is a natural part of life
+UP: Embracing healthy grief
+UP: Learning lessons from harsh consequences
+REV: Wallowing in unhealthy grief or self-pity
+REV: Refusing to move on and let go
+REV: Clinging to the past
+REV: Obsessing on past lives and past loves
+REV: Failing to live in the present
+REV: Beating yourself up over past mistakes
+REV: Allowing fear of failure to limit your efforts
+OMEN: A breakup looms
+OMEN: Don't cry over spilt milk
+OMEN: Take your lumps and get back in the saddle
+WAITE UP: A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.
+WAITE REV: News, alliances, affinity, consanguinity, ancestry, return, false projects.
+
+[41]
+NAME: SIX OF CUPS
+KEYWORDS: charity, sharing, sacrifice, cooperation, fairness
+UP: Donating your time and talents to others
+UP: Taking satisfaction in knowing how your efforts will aid others
+UP: Creating a "win-win" scenario
+UP: Giving even when you know repayment is not possible
+UP: Being motivated to do a good deed
+REV: Linking your sense of self-worth to the appraisals of others
+REV: Striving to appear more needy than you really are
+REV: Taking undeserved or unmerited charity
+REV: Bragging about your charitable efforts
+REV: Profiteering in times of distress
+REV: Refusing to share a burden
+OMEN: A stingy spirit is strangling your enjoyment of life
+OMEN: Loosen up and think of others for once, why don't you?
+WAITE UP: A card of the past and of memories, looking back, as--for example--on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct.
+WAITE REV: The future, renewal, that which will come to pass presently.
+
+[42]
+NAME: SEVEN OF CUPS
+KEYWORDS: imagination, dreams, illusions, goals
+UP: Motivating yourself with images of future success
+UP: Using visualization to encourage progress
+UP: Taking an imaginative or creative approach to problem solving
+UP: Making dreams come true
+UP: Gleaning insight from personal visions
+REV: Obsessing on imaginary fears or uncertain consequences
+REV: Giving in to emotional or political terrorism
+REV: Spending more time dreaming than working
+REV: Failing to envision the possible repercussions of your choices
+REV: Being controlled by fear
+OMEN: You're being fed a line
+OMEN: Rather than be dazzled by fancy words and promises, demand something real
+WAITE UP: Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.
+WAITE REV: Desire, will, determination, project.
+
+[43]
+NAME: EIGHT OF CUPS
+KEYWORDS: longing, dissatisfaction, quest, departure, withdrawal
+UP: Wanting something better
+UP: Blazing your own trail
+UP: Realizing there must be more to life
+UP: Leaving an unhealthy situation behind
+UP: Starting your own business
+UP: Going on a retreat
+UP: Seeking the "still, small voice"
+REV: Being implacable
+REV: Finding fault
+REV: Nitpicking
+REV: Refusing to settle down
+REV: Running away from problems or confrontations
+REV: Saying, "It's my way or the highway!"
+REV: Harping on past mistakes and disappointments
+REV: Threatening to quit as a strategy to get your way
+OMEN: Someone's "stepping out" on you, now or in the near future
+OMEN: Maybe it's time to quit talking about the problem and just move on
+WAITE UP: The card speaks for itself on the surface, but other readings are entirely antithetical--giving joy, mildness, timidity, honour, modesty. In practice, it is usually found that the card shews the decline of a matter, or that a matter which has been thought to be important is really of slight consequence--either for good or evil.
+WAITE REV: Great joy, happiness, feasting.
+
+[44]
+NAME: NINE OF CUPS
+KEYWORDS: satisfaction, sensuality, luxury, pleasure
+UP: Being delighted with your own achievements
+UP: Recognizing your own talents and abilities
+UP: Reveling in the good things life has to offer
+UP: Indulging yourself
+UP: Relaxing and unwinding
+UP: Having everything you need in order to feel complete
+REV: Being smug
+REV: Satisfying yourself at the expense of others
+REV: Being selfish
+REV: Over-indulging
+REV: Avoiding work that needs to be done
+REV: Claiming achievements or skills you do not possess
+REV: Never being satisfied, no matter how much you have
+OMEN: Whatever you want, you'll get it
+WAITE UP: Concord, contentment, physical bien-Ãªtre; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.
+WAITE REV: Truth, loyalty, liberty; but the readings vary and include mistakes, imperfections, etc.
+
+[45]
+NAME: TEN OF CUPS
+KEYWORDS: joy, fulfillment, overwhelming emotion, giddiness
+UP: Having more than you ever dreamed
+UP: Being deeply thankful for all you've been given
+UP: Recognizing the Hand of God in the gifts the Universe brings your way
+UP: Experiencing transcendent joy
+UP: Achieving domestic bliss
+REV: Comparing your achievements or relationships to unrealistic fantasy standards
+REV: Experiencing emotions so intense they blunt your ability to cope with reality
+REV: Feeling overwhelmed
+REV: Envying the achievements and happiness of others
+OMEN: Marriage and family are in the cards
+OMEN: Expect a friendship to blossom into a romance
+WAITE UP: Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.
+WAITE REV: Repose of the false heart, indignation, violence.
+
+[46]
+NAME: PAGE OF CUPS
+KEYWORDS: enthusiasm, first impressions, romanticism, superficiality
+UP: Showing your emotions freely
+UP: Throwing yourself into romance
+UP: Nursing a secret crush
+UP: Indulging in romantic fantasy
+UP: Starting a new relationship
+UP: Recalling your first love
+UP: Experiencing love for the first time
+UP: Converting to a new religion
+REV: Mistaking a crush for true love
+REV: Reading romantic intention into innocent action
+REV: Frantically trying to impress others
+REV: Indulging in overly-sweet sentimentality
+REV: Pretending to more romantic or spiritual experience than you possess
+OMEN: This card represents a young man or woman with a watery, dreamy demeanor, likely born a Libra, Scorpio, or Sagittarius, who wants to start a new relationship with you
+WAITE UP: Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business.
+WAITE REV: Taste, inclination, attachment, seduction, deception, artifice.
+
+[47]
+NAME: KNIGHT OF CUPS
+KEYWORDS: fervor, zeal, moodiness, illumination
+UP: Being deeply committed to a cause
+UP: Giving in to strong emotions, from excitement to depression
+UP: Acting on intuition alone
+UP: Solving problems intuitively
+UP: Believing in and basing decisions on ideals instead of realities
+UP: Bringing intuition or passion to the table
+REV: Becoming a fanatic
+REV: Rejecting information that suggests your intuitions are misguided
+REV: Allowing your emotions to control you
+REV: Giving in to jealousy, confrontation, and peer pressure
+REV: Hiding or ignoring intuitive insights
+OMEN: This card represents a man with an emotional, sensitive personality, likely born between October 13th and November 11th, who wants you to rally around his latest passionate cause
+WAITE UP: Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.
+WAITE REV: Trickery, artifice, subtlety, swindling, duplicity, fraud.
+
+[48]
+NAME: QUEEN OF CUPS
+KEYWORDS: insightfulness, spirituality, compassion, empathy, instinct
+UP: Allowing yourself to be moved by the plight of others
+UP: Feeling strong emotions
+UP: Possessing unusual sympathy or empathy
+UP: Trusting your feelings to guide you
+UP: Calling on psychic abilities
+UP: Achieving unity with Spirit
+REV: Becoming so caught up in matters of Spirit, you become detached from the world
+REV: Allowing empathy to disable you (instead of inspire action)
+REV: Using psychic abilities to wield covert influence
+REV: Wallowing in emotionalism, sentiment, or self-pity
+OMEN: This card represents a woman with an emotional, deeply spiritual nature, likely born between June 11th and July 11th, who uses emotional and spiritual appeals to sway others to her point of view
+WAITE UP: Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.
+WAITE REV: The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity.
+
+[49]
+NAME: KING OF CUPS
+KEYWORDS: wisdom, diplomacy, restraint, composure
+UP: Keeping a stiff upper lip
+UP: Being brave and clear in the face of adverse circumstances
+UP: Sharing experience as a way of comforting others
+UP: Making fair and empathetic decisions
+UP: Honoring the spirit, not just the letter, of the law
+REV: Allowing yourself to become rigid and unemotional
+REV: Making unfair decisions based on a hidden agenda
+REV: Making decisions without regard for their emotional impact on others
+REV: Abusing spiritual authority
+REV: Using emotional or spiritual leverage to exercise unhealthy control over others
+OMEN: This card represents an older man with a gentle, sensitive presence, likely born between February 9th and March 10th, who is known for his fairness and tolerance
+WAITE UP: Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.
+WAITE REV: Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.
+
+[50]
+NAME: ACE OF SWORDS
+KEYWORDS: logic, objectivity, intellect, choice
+UP: Making objective decisions
+UP: Applying logic
+UP: Reasoning your way out of a difficult situation
+UP: Solving puzzles
+UP: Thinking things through
+UP: Emphasizing the facts
+UP: Clearing your mind
+UP: Seeking clarity
+REV: Applying ruthless or twisted logic
+REV: Gloating over your own superior intellect
+REV: Using quick thinking to deceive or confuse others
+REV: Confusing snap judgments with quick thinking
+REV: Making decisions without thinking through consequences
+OMEN: The time to make a choice is now
+OMEN: Stop wavering and do what you know is best
+WAITE UP: Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.
+WAITE REV: The same, but the results are disastrous; another account says--conception, childbirth, augmentation, multiplicity.
+
+[51]
+NAME: TWO OF SWORDS
+KEYWORDS: denial, debate, impasse, truce
+UP: Refusing to make a decision without getting the facts
+UP: Exploring both sides of an argument
+UP: Arguing passionately for what you believe in
+UP: Weighing the issues
+UP: Encouraging the open exchange of ideas
+UP: Discussing political or religious issues without getting "hot under the collar"
+REV: Rejecting evidence that conflicts with dearly-held beliefs
+REV: Arguing with others just for the sake of doing so
+REV: Nit-picking
+REV: Putting off a decision because you're afraid to face the consequences
+REV: Preventing others from getting the information they need to make good decisions
+OMEN: Sometimes, the only way to win is to refuse to fight
+OMEN: You're stuck for now; let time pass before taking action
+WAITE UP: Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.
+WAITE REV: Imposture, falsehood, duplicity, disloyalty.
+
+[52]
+NAME: THREE OF SWORDS
+KEYWORDS: variance, difference, dissatisfaction, heartache, rejection
+UP: Being brave enough to see things as they really are
+UP: Exercising your critical eye
+UP: Being your own best critic
+UP: Acknowledging that things don't always turn out as planned
+UP: Moving past heartbreak to embrace a painful truth
+REV: Wallowing in despair
+REV: Allowing yourself to be completely crushed by the thoughts, words, or deeds of another
+REV: Judging yourself too harshly
+REV: Holding yourself to an unrealistic standard of excellence
+REV: Wearing your heart on your sleeve while carrying a chip on your shoulder
+OMEN: Breakups and infidelity abound
+OMEN: What hurts now, though, will turn out to be good for you later on
+WAITE UP: Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.
+WAITE REV: Mental alienation, error, loss, distraction, disorder, confusion.
+
+[53]
+NAME: FOUR OF SWORDS
+KEYWORDS: meditation, contemplation, perspective, mindset
+UP: Thinking over your plans before putting them into action
+UP: Pausing to meditate or clear your mind
+UP: Taking time to understand someone or something before criticizing it
+UP: Resting
+UP: Occupying your thoughts with a healthy distraction
+REV: Failing to think things through
+REV: Mistaking procrastination for thoughtfulness
+REV: Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence
+REV: Allowing chaos and whimsy to dominate your thoughts
+OMEN: Don't make any decision now
+OMEN: Wait, and you'll be glad you did
+WAITE UP: Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.
+WAITE REV: Wise administration, circumspection, economy, avarice, precaution, testament.
+
+[54]
+NAME: FIVE OF SWORDS
+KEYWORDS: selfishness, hostility, irrationality, self-preservation
+UP: Acting in your own best interest
+UP: Choosing to stand up for yourself
+UP: Not backing down from disagreement and discord
+UP: Taking a stand
+UP: Refusing to go along with an unethical plan
+UP: Knowing when to bend the rules
+REV: Taking advantage of others
+REV: Intimidating others
+REV: Acting in an unethical manner
+REV: Picking fights
+REV: Using words to goad others into violence and irrationality
+REV: Ignoring rules you've agreed to abide by
+REV: Looking out for yourself while allowing harm to come to others
+REV: Gloating over victory
+OMEN: Someone is stealing from you, financially or romantically
+OMEN: Be wary of friends who talk behind your back
+WAITE UP: Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these.
+WAITE REV: The same; burial and obsequies.
+
+[55]
+NAME: SIX OF SWORDS
+KEYWORDS: adaptation, adjustments, science, travel
+UP: Making the best of a bad situation
+UP: Recovering from defeat
+UP: Resetting expectations
+UP: Making allowances for unexpected circumstances
+UP: Helping others who find themselves in dire circumstances
+UP: Changing the way you see the world
+UP: Broadening your perspective through study or travel
+REV: Refusing to accept that things have changed
+REV: Playing the victim
+REV: Rejecting the idea that your actions have consequences
+REV: Applying scientific criteria to matters of faith, or confusing faith with science
+REV: Believing the whole world should be like your small corner of it
+OMEN: You'll soon go on a long journey over water
+OMEN: Actions have unexpected consequences, so be prepared
+WAITE UP: Journey by water, route, way, envoy, commissionary, expedient.
+WAITE REV: Declaration, confession, publicity; one account says that it is a proposal of love.
+
+[56]
+NAME: SEVEN OF SWORDS
+KEYWORDS: dishonesty, presumption, sneakiness, assumptions
+UP: Refusing to do something dishonest, even when there's no chance of ever being caught
+UP: Handling a difficult situation with finesse
+UP: Pointing out assumptions
+UP: Acting ethically in public and in private
+UP: Living a life that is beyond reproach
+REV: Stealing or lying
+REV: Doing whatever you can get away with, simply because you can
+REV: Looking for a way around consequences
+REV: Justifying wicked behavior by focusing on the wickedness of others
+REV: Failing to examine your own motives and prejudices
+OMEN: Don't assume people around you are worthy of your trust
+OMEN: Ask for an accounting of where people have been, and what they've been doing
+WAITE UP: Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.
+WAITE REV: Good advice, counsel, instruction, slander, babbling.
+
+[57]
+NAME: EIGHT OF SWORDS
+KEYWORDS: restriction, limitation, confinement, helplessness
+UP: Honoring limits
+UP: Respecting the rules
+UP: Deciding to go on a diet for your health's sake
+UP: Recognizing you cannot always be in control
+UP: Identifying obstacles to further progress
+UP: Refusing to think about unhealthy or unethical options
+UP: Asking for assistance
+REV: Feeling trapped
+REV: Being lost in a maze of rules and regulations
+REV: Giving in to despair
+REV: Playing the victim
+REV: Allowing others to dictate what you can and cannot do
+REV: Being rendered helpless
+REV: Having very few options
+REV: Failing to look for a way out
+OMEN: Get over playing the victim
+OMEN: Once you realize you are your own biggest obstacle, nothing can hold you back
+WAITE UP: Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness.
+WAITE REV: Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.
+
+[58]
+NAME: NINE OF SWORDS
+KEYWORDS: remorse, worry, distraught, conclusion
+UP: Refusing to worry about what you cannot control
+UP: Rejecting anxiety
+UP: Judging your own performance with kindness and gentleness
+UP: Using meditation to quiet a troubled mind
+UP: Confronting nightmares and fears
+UP: Drawing a conclusion and putting an issue out of your mind
+REV: Torturing yourself with regrets
+REV: Second-guessing your every move
+REV: Beating yourself up for your mistakes
+REV: Depression
+REV: Obsessing on errors and overlooked details
+REV: Refusing to handle stress in healthy ways
+REV: Ruining your ability to appreciate the present by dwelling on the past
+REV: Debating irreversible decisions
+OMEN: If you take the action you're considering now, you'll be sorry in the future
+WAITE UP: Death, failure, miscarriage, delay, deception, disappointment, despair.
+WAITE REV: Imprisonment, suspicion, doubt, reasonable fear, shame.
+
+[59]
+NAME: TEN OF SWORDS
+KEYWORDS: exhaustion, ruin, disaster, stamina, obsession
+UP: Seeing the signs that you've reached your limits
+UP: Paying attention to what your body is trying to tell you
+UP: Giving in to the need for rest and renewal
+UP: Acknowledging that you've hit bottom
+UP: Committing to a turnaround
+UP: Knowing the worst is over
+REV: Accepting defeat prematurely
+REV: Driving yourself to total exhaustion, especially mentally
+REV: Experiencing a mental breakdown
+REV: Obsessing on a problem to the breaking point
+REV: Giving up
+REV: Refusing to move from thought to action
+REV: Deeply unhealthy thoughts
+OMEN: Disaster
+OMEN: Put off plans and do not take action until omens are better
+WAITE UP: Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.
+WAITE REV: Advantage, profit, success, favour, but none of these are permanent; also power and authority.
+
+[60]
+NAME: PAGE OF SWORDS
+KEYWORDS: student, apprentice, scholarship, information
+UP: Pursuing a course of study
+UP: Asking good questions
+UP: Investing time in study and practice
+UP: Doing research
+UP: Making a habit of learning new things
+UP: Starting an investigation
+UP: Outlining what you need to know
+UP: Finding a mentor or teacher
+REV: Pretending to knowledge or sophistication you do not possess
+REV: Cheating on an exam
+REV: Feigning interest as a way of gaining favor
+REV: Considering only the evidence that supports conclusions you've already drawn
+REV: Rejecting the wise counsel of experienced teachers
+OMEN: This card represents a young man or woman with an airy, intellectual demeanor, likely born a Capricorn, Aquarius, or Pisces, who wants to learn something new from you or have a discussion with you
+WAITE UP: Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.
+WAITE REV: More evil side of these qualities; what is unforeseen, unprepared state; sickness is also intimated.
+
+[61]
+NAME: KNIGHT OF SWORDS
+KEYWORDS: bluntness, intelligence, incisiveness, investigation
+UP: Speaking your mind
+UP: Making your opinions known
+UP: Offering constructive criticism
+UP: Sharing your knowledge
+UP: Making insightful observations
+UP: Pinpointing the problem
+UP: Clarifying what others have said
+UP: Giving clear direction to others
+UP: Uncovering the truth
+REV: Stating your opinions as fact
+REV: Picking fights
+REV: Starting arguments
+REV: Using clever insults to undermine the confidence of others
+REV: Tossing reason out the window
+REV: Speaking without taking the feelings of others into account
+REV: Going on a witch hunt
+REV: Distorting evidence
+OMEN: A blunder leads someone to say something he or she regrets
+OMEN: If this was you, be prepared to apologize and move on
+WAITE UP: Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.
+WAITE REV: Imprudence, incapacity, extravagance.
+
+[62]
+NAME: QUEEN OF SWORDS
+KEYWORDS: grace, skill, wit, charm, aptitude
+UP: Exercising tact or using diplomacy
+UP: Defusing a tense situation
+UP: Knowing what to say and how to say it
+UP: Making others feel comfortable and confident
+UP: Bringing out the best in everyone
+UP: Having a way with words
+UP: Telling jokes
+UP: Possessing a knack for music, math, art, or science
+REV: Knowing exactly what to say to destroy another person
+REV: Withholding critical information
+REV: Using a barbed tongue to upset others
+REV: Employing sarcasm
+REV: Mimicking others unkindly
+REV: Making light of the less fortunate
+REV: Being disrespectful
+REV: Failing to use the talent you've been given
+OMEN: This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view
+WAITE UP: Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.
+WAITE REV: Malice, bigotry, artifice, prudery, bale, deceit.
+
+[63]
+NAME: KING OF SWORDS
+KEYWORDS: genius, expertise, decision, verdict
+UP: Expressing yourself with firmness and authority
+UP: Rendering a final decision
+UP: Consulting an expert
+UP: Calling in advisors and consultants
+UP: Coming to a final conclusion
+UP: Reaching a beneficial agreement based on sound information
+REV: Insisting on having the last word
+REV: Flaunting your intellectual capability
+REV: Talking "over the heads" of others
+REV: Waffling on an important decision
+REV: Constantly changing your mind
+REV: Refusing to make choices that are in your own best interest
+REV: Wishing in vain you could take back what's been said
+OMEN: This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability
+WAITE UP: Whatsoever arises out of the idea of judgment and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth.
+WAITE REV: Cruelty, perversity, barbarity, perfidy, evil intention.
+
+[64]
+NAME: ACE OF PENTACLES
+KEYWORDS: health, wealth, practicality, receiving
+UP: Outlining a plan for achieving prosperity
+UP: Becoming aware of opportunities to improve income or health
+UP: Realizing you have everything you need
+UP: Appreciating everything the Universe has given you
+UP: Receiving the perfect gift at the perfect time
+REV: Indulging in relentless consumerism
+REV: Wanting more, no matter how much you have
+REV: Obsessing on your account balance
+REV: Suffering from hypochondria
+REV: Consuming blessings without expressing gratitude
+REV: Taking what you want without concern for the needs of others
+OMEN: Your health will improve
+OMEN: The check you're looking for really is in the mail
+WAITE UP: Perfect contentment, felicity, ecstasy; also speedy intelligence; gold.
+WAITE REV: The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on whether the card is reversed or not.
+
+[65]
+NAME: TWO OF PENTACLES
+KEYWORDS: evaluation, decision, budgeting, diagnosis
+UP: Weighing options
+UP: Comparing prices
+UP: Determining the value of one option over another
+UP: Juggling resources to make ends meet
+UP: Making difficult choices based on what's best for your body or your bankbook
+UP: Looking at the bottom line
+UP: Asking for a second opinion on health issues
+REV: Engaging in endless price comparison
+REV: Putting off a buying decision for fear of finding a slightly better value later on
+REV: Buying something without regard for value
+REV: Breaking your budget with unnecessary expenses
+REV: Engaging in behavior with no regard for how your body or bankbook will be impacted
+OMEN: It's time to balance the budget
+OMEN: Avoid the temptation to spend critical funds on frivolous goods
+WAITE UP: On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.
+WAITE REV: Enforced gaiety, simulated enjoyment, literal sense, handwriting, composition, letters of exchange.
+
+[66]
+NAME: THREE OF PENTACLES
+KEYWORDS: expression, production, work, contribution
+UP: Finishing a project
+UP: Setting and meeting standards
+UP: Performing according to specifications
+UP: Making something others value
+UP: Creating something new
+UP: Doing your part in a group project
+UP: Delivering exactly what others have asked for
+REV: Pandering to the tastes of others
+REV: Failing to deliver what you've promised
+REV: Not delivering your best work unless closely supervised
+REV: Ignoring or breaking agreements with those who have invested in you
+REV: Refusing to do your part
+REV: Failing to abide by a clearly-outlined agreement with yourself or others
+OMEN: A high-dollar contract is in your future
+OMEN: If you work hard, you'll succeed
+WAITE UP: MÃ©tier, trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory.
+WAITE REV: Mediocrity, in work and otherwise, puerility, pettiness, weakness.
+
+[67]
+NAME: FOUR OF PENTACLES
+KEYWORDS: protection, conservation, preservation, safety
+UP: Saving for a rainy day
+UP: Fasting as part of a spiritual practice
+UP: Dieting in an effort to improve your body
+UP: Abstaining from sex as a way of honoring a spiritual tradition or personal promise
+UP: Being financially conservative
+UP: Establishing a trust fund
+UP: Opening a savings account
+REV: Being stingy
+REV: Refusing to spend money that needs to be spent
+REV: Withholding sex from your partner
+REV: Taking care of your own needs exclusively, without regard for the needs of others
+REV: Spending a dollar to save a penny
+REV: Failing to be a good manager of the blessings you've been given
+OMEN: A rainy day is coming-it's time to save
+WAITE UP: The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.
+WAITE REV: Suspense, delay, opposition.
+
+[68]
+NAME: FIVE OF PENTACLES
+KEYWORDS: poverty, destitution, need, crisis
+UP: Recognizing your needs and taking action to fulfill them
+UP: Doing as much as you can do with what little you have
+UP: Admitting you need help
+UP: Embracing the aid that comes your way
+UP: Focusing on what you have versus what you don't
+UP: Looking for the light at the end of the tunnel
+REV: Exaggerating your financial or physical needs
+REV: Adopting a poverty mentality
+REV: Refusing to support yourself
+REV: Refusing offers of support
+REV: Playing the martyr
+REV: Turning down opportunities to improve your health or finances
+REV: Wallowing in misery
+OMEN: Finances are getting tighter
+OMEN: Prepare for a setback
+WAITE UP: The card foretells material trouble above all, whether in the form illustrated--that is, destitution--or otherwise. For some cartomancists, it is a card of love and lovers-wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.
+WAITE REV: Disorder, chaos, ruin, discord, profligacy.
+
+[69]
+NAME: SIX OF PENTACLES
+KEYWORDS: charity, fairness, cooperation, sharing
+UP: Giving time, money, or effort to a charity
+UP: Taking part in a group effort
+UP: Lending your resources to others without expecting anything in return
+UP: Making sure everyone is treated equally
+UP: Working together toward a common goal
+UP: Redistributing wealth, time, or attention
+UP: Tithing
+UP: Sharing credit for your success
+REV: Making a loan as a means of gaining control over someone
+REV: Using charitable acts to draw attention to yourself
+REV: Dividing work or resources unfairly
+REV: Failing to do your part in a group effort
+REV: Ignoring obligations and commitments
+OMEN: When you need help, ask for it
+OMEN: Remember, though: what you receive may be limited by what you've given to others in the past
+WAITE UP: Presents, gifts, gratification another account says attention, vigilance now is the accepted time, present prosperity, etc.
+WAITE REV: Desire, cupidity, envy, jealousy, illusion.
+
+[70]
+NAME: SEVEN OF PENTACLES
+KEYWORDS: assessment, evaluation, re-evaluation, reflection
+UP: Measuring progress toward your goal
+UP: Looking at results with an eye toward improving performance
+UP: Asking, "How happy am I?"
+UP: Coming up with ideas for improving your health or prosperity
+UP: Deciding it's time for a change
+UP: Expressing an honest opinion
+REV: Becoming distracted by melancholy thoughts
+REV: Longing for "the good old days"
+REV: Beating yourself up over lost opportunities
+REV: Judging your own work harshly
+REV: Holding others to inappropriate standards
+REV: Refusing to take part in a project, then whining about the quality of the outcome
+OMEN: Things won't work out as expected
+OMEN: Pick up the pieces and prepare to move on
+WAITE UP: These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrels--and another innocence, ingenuity, purgation.
+WAITE REV: Cause for anxiety regarding money which it may be proposed to lend.
+
+[71]
+NAME: EIGHT OF PENTACLES
+KEYWORDS: effort, work diligence, skill
+UP: Doing your best
+UP: Bringing enthusiasm and zeal to your work
+UP: Making an effort to be the best you can be
+UP: Finding the work that is right for you
+UP: Taking care of the small details
+UP: Becoming a finely skilled craftsperson
+UP: Building something with your hands
+UP: Making a handmade gift
+REV: Working yourself to death
+REV: Doing a half-hearted or sloppy job
+REV: Continuing in a job you hate
+REV: Buying thoughtless gifts
+REV: Producing work with shoddy craftsmanship
+REV: Rushing through your work
+REV: Rejecting opportunities to learn more about your craft
+OMEN: Stop over-analyzing, researching, and outlining
+OMEN: Buckle down and get the work done
+WAITE UP: Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage.
+WAITE REV: Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.
+
+[72]
+NAME: NINE OF PENTACLES
+KEYWORDS: training, discipline, confidence, enough
+UP: Investing time in learning or teaching a difficult task
+UP: Restraining yourself from physical or financial extremes
+UP: Making sacrifices as a way of achieving larger goals
+UP: Breaking a complex task down into simple steps
+UP: Wanting what you have
+UP: Knowing the difference between needs and wants
+REV: Being assigned to a task without being trained to perform it
+REV: Pursuing a position for which you are not qualified
+REV: Disregarding requirements
+REV: Refusing to dedicate adequate time or attention when learning about something or someone new
+REV: Always craving more
+OMEN: Until you appreciate what you have, you won't have any luck getting more
+WAITE UP: Prudence, safety, success, accomplishment, certitude, discernment.
+WAITE REV: Roguery, deception, voided project, bad faith.
+
+[73]
+NAME: TEN OF PENTACLES
+KEYWORDS: wealth, abundance, acquisition, greed
+UP: Celebrating your physical and financial blessings
+UP: Realizing how lucky or how blessed you are
+UP: Being satisfied with your physical and financial achievements
+UP: Taking best advantage of "times of plenty"
+UP: Enjoying a feast
+UP: Showering friends or family with gifts
+REV: Spending all of your money on extravagant gifts and possessions
+REV: Trying too hard to impress others with your wealth or physique
+REV: Giving an inappropriately expensive gift as a means of currying favor
+REV: Obsessing on matters of weight, health, or finance
+REV: Always asking, "What's in it for me?"
+OMEN: Big money is in the near future
+OMEN: Expect a powerful blessing to come your way
+WAITE UP: Gain, riches; family matters, archives, extraction, the abode of a family.
+WAITE REV: Chance, fatality, loss, robbery, games of hazard; sometimes gift, dowry, pension.
+
+[74]
+NAME: PAGE OF PENTACLES
+KEYWORDS: practicality, prosperity, learning, growth, adolescence
+UP: Learning the value of a dollar
+UP: Starting a savings plan
+UP: Taking the first steps toward getting out of debt
+UP: Learning new physical tasks
+UP: Discovering your sexuality
+UP: Launching a diet, a weight-lifting program, or a health-related effort
+UP: Learning by doing
+REV: Trying to appear healthier or wealthier than you really are
+REV: Spending money carelessly
+REV: Living strictly for today, with no thought of tomorrow
+REV: Possessing immature attitudes toward sex and sexuality
+REV: Using wealth or beauty as an excuse for not having to learn and grow
+OMEN: This card represents a young man or woman with an earthy, practical demeanor, likely born an Aries, Taurus, or Gemini, who playfully encourages you to take financial or sexual risks
+WAITE UP: Application, study, scholarship, reflection another reading says news, messages and the bringer thereof; also rule, management.
+WAITE REV: Prodigality, dissipation, liberality, luxury; unfavourable news.
+
+[75]
+NAME: KNIGHT OF PENTACLES
+KEYWORDS: caution, focus, realism, invention
+UP: Spending money wisely
+UP: Saving for a rainy day
+UP: Paying close attention to physical or financial details
+UP: Knowing where every dollar goes
+UP: Having safe sex
+UP: Preferring facts to "good feelings"
+UP: Finding creative ways to "make do" with resources on hand
+UP: Completing a new invention
+REV: Throwing caution to the four winds
+REV: Spending without regard for consequence
+REV: Spending on luxury when necessities are lacking
+REV: Escaping stress by spending money
+REV: Obsessing on tiny physical or financial details
+REV: Perpetually chasing after some new bauble
+REV: Copying another's work and claiming it as your own
+OMEN: A stingy person may chide you for spending money
+OMEN: Be prepared to defend an economic or sexual decision
+WAITE UP: Utility, serviceableness, interest, responsibility, rectitude-all on the normal and external plane.
+WAITE REV: inertia, idleness, repose of that kind, stagnation; also placidity, discouragement, carelessness.
+
+[76]
+NAME: QUEEN OF PENTACLES
+KEYWORDS: luxury, comfort, resourcefulness, generosity, prosperity
+UP: Appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life
+UP: Reveling in healthy sexuality
+UP: Treating yourself
+UP: Splurging on the occasional "nice to have" item
+UP: Rewarding someone with compensation above and beyond expectations
+UP: Having it all
+REV: Indulging in gluttony or greediness
+REV: Becoming insatiable
+REV: Blunting the impact of treats by indulging in them too often
+REV: Providing physical comfort without providing for emotional needs
+REV: Allowing a feeling of entitlement to distort your gratitude for what you're given
+OMEN: This card represents a woman with an expansive, sensual nature, likely born between December 13th and 31st, who uses sensual appeal and the promise of reward to sway others to her point of view
+WAITE UP: Opulence, generosity, magnificence, security, liberty.
+WAITE REV: Evil, suspicion, suspense, fear, mistrust.
+
+[77]
+NAME: KING OF PENTACLES
+KEYWORDS: stability, dependability, confidence, intervention
+UP: Becoming debt-free
+UP: Having more than enough to get by
+UP: Making contributions to a savings plan
+UP: Taking a new job with an eye toward advancing your career
+UP: Buying life or health insurance
+UP: Being confident in the bedroom
+UP: Taking on the role of enforcer when called upon to do so
+REV: Becoming so conservative you resist all change on principle alone
+REV: Ignoring innovations in the name of preserving tradition
+REV: Being smug or cocky
+REV: Becoming ruthlessly dedicated to profit or pleasure
+REV: Being sexually selfish
+REV: Bossing others around, especially when you're not empowered to do so
+OMEN: This card represents an older man with a financially, socially, and politically conservative spirit, likely born between August 12th and September 11th, who is known for putting his money where his mouth is
+WAITE UP: Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.
+WAITE REV: Vice, weakness, ugliness, perversity, corruption, peril.

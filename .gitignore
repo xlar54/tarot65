@@ -1,0 +1,14 @@
+*.lbl
+*.lst
+*.d81
+target/
+# generated on every build by tools/build_assets.py
+src/gen/
+.claude/settings.local.json
+# Personal notes, examples, non-build tools, temp data, the MEGA65 book: never published
+private/
+__pycache__/
+# local notes and working files, not needed to build
+.claude/
+docs/
+TODO.md
